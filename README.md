@@ -75,5 +75,4 @@ streamlit run app.py
 
 ## ⚠️ Disclaimer
 
-This application is for demonstration purposes. For production use, additional security measures should be implemented. "# Secure-Data-Encryption" 
-"# Secure-Data-Encryption" 
+This application is for demonstration purposes. For production use, additional security measures should be implemented.
